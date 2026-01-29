@@ -32,11 +32,11 @@ DROP TABLE Course;
 
 
 -- Inserting 5 student records into Student
-INSERT INTO Student VALUES (221, 'Sanskar', 'CSE', 21, '7698521455', 'Muzaffarpur', '5');
-INSERT INTO Student VALUES (598, 'Amarjeet', 'ME', 20, '9112233445', 'Calcutta', '5');
-INSERT INTO Student VALUES (564, 'Himanshu', 'EEE', 20, '6112365478', 'BiharSharif', '6');
-INSERT INTO Student VALUES (258, 'Ashu', 'ME', 22, '8001452369', 'Sitamarhi', '8');
-INSERT INTO Student VALUES (991, 'Anand', 'CSE', 18, '7225236545', 'Vaishali', '5');
+INSERT INTO Student VALUES (221, 'Sanskar', 'CSE', 21, '7698521455', 'Muzaffarpur', 5);
+INSERT INTO Student VALUES (598, 'Amarjeet', 'ME', 20, '9112233445', 'Calcutta', 5);
+INSERT INTO Student VALUES (564, 'Himanshu', 'EEE', 20, '6112365478', 'BiharSharif', 6);
+INSERT INTO Student VALUES (258, 'Ashu', 'ME', 22, '8001452369', 'Sitamarhi', 8);
+INSERT INTO Student VALUES (991, 'Anand', 'CSE', 18, '7225236545', 'Vaishali', 5);
 
 
 -- Displaying all records from Student.
